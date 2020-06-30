@@ -2,4 +2,4 @@
 
 Create simple flip animation with AlertDialog
 
-![](https://i.ibb.co/VgPhRb5/ezgif-com-video-to-gif.gif)
+![](https://i.ibb.co/G9bf8Gz/ezgif-com-resize.gif)
